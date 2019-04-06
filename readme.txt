@@ -3,4 +3,7 @@ Git 是一个免费的软件 under the GPL
 
 crreat a new branch is quick!
 
-Create a new branch is quick & simple.
+
+Create a new branch is quick and simple.
+Create a new branch is quick and simple.
+
